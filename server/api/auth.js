@@ -23,4 +23,3 @@ app.use(express.json());
 app.use('/', authRouter);
 
 module.exports = app;
-
