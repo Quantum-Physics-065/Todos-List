@@ -64,9 +64,11 @@ Frontend is served as static files from `client/build`, backend routes as server
 ## Technologies
 
 (same)
-
-
 ## Technologies Used
 
 - Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt
 - Frontend: React, Axios, React Router, Tailwind CSS
+  
+## Developer
+ Name : IndianCoder@1902
+
